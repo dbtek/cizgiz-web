@@ -1,0 +1,15 @@
+#content-wrapper {
+  padding: 10px 5% 0;
+}
+
+.device .screen {
+  background-image: url(/images/cizgiz-feed.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+}
