@@ -1,5 +1,7 @@
-response: [
-  "pratik.bilgilerr",
-  "gizli.ilimler",
-  "hayallerine_dokunn"
-]
+{
+  response: [
+    "pratik.bilgilerr",
+    "gizli.ilimler",
+    "hayallerine_dokunn"
+  ]
+}
